@@ -9,7 +9,7 @@
 
 ## ТЗ
 
-<img src="https://github.com/MAKSIM89PW/DIKIDIOnline/blob/main/DIKIDIOnline.png" width="200" height="300">
+<img src="https://github.com/MAKSIM89PW/DIKIDIOnline/blob/main/DIKIDIOnline.png" width="300" height="400">
   
 ## gif 
 
